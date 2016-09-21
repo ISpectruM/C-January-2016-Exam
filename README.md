@@ -9,3 +9,4 @@ Changes in develop branch.
 Now changes in master branch.
 OK
 
+Practice with GitBash.
