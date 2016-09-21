@@ -6,9 +6,6 @@ I insist for new changes.
 OK.
 
 Changes in develop branch.
-
-<<<<<<< HEAD
 Now changes in master branch.
-=======
->>>>>>> Develop
+OK
 
