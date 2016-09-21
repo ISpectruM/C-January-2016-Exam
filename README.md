@@ -5,4 +5,7 @@ Changes from GitHub
 I insist for new changes.
 OK.
 
+Changes in develop branch.
+
+Now changes in master branch.
 
