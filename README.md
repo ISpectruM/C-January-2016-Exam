@@ -7,5 +7,8 @@ OK.
 
 Changes in develop branch.
 
+<<<<<<< HEAD
 Now changes in master branch.
+=======
+>>>>>>> Develop
 
