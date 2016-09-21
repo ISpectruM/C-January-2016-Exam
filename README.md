@@ -11,10 +11,16 @@ OK
 
 2.Practice with GitBash.
 
-Some changes on the local location.
+-Some changes on the local location.
 
-Change from the GitHub.
+-Change from the GitHub.
+
+-Merged changes!
+
+-changes in the new branch.
 
 Merged changes!
 
 Chenges from the master branch.
+
+Resolved conflict from two branches.
