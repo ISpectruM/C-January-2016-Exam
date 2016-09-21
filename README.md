@@ -21,6 +21,6 @@ OK
 
 Merged changes!
 
-Chenges from the master branch.
+Changes from the master branch.
 
 Resolved conflict from two branches.
