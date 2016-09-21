@@ -1,4 +1,4 @@
-# ExcersisesGitHub
+1.# ExcersisesGitHub
 Merged changes:
 Made some changes 14:04
 Changes from GitHub
@@ -9,6 +9,10 @@ Changes in develop branch.
 Now changes in master branch.
 OK
 
-Practice with GitBash.
+2.Practice with GitBash.
 
 Some changes on the local location.
+
+Change from the GitHub.
+
+Merged changes!
