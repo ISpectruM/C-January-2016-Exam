@@ -16,3 +16,5 @@ Some changes on the local location.
 Change from the GitHub.
 
 Merged changes!
+
+Chenges from the master branch.
