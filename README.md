@@ -10,3 +10,5 @@ Now changes in master branch.
 OK
 
 Practice with GitBash.
+
+Change from the GitHub.
